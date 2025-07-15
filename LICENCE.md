@@ -1,4 +1,4 @@
-# 🔥 Fiery Combat – End User License Agreement (EULA)
+# Fiery Combat – End User License Agreement (EULA)
 
 **Effective Date:** 16-07-2025  
 **Copyright © 2025 fieryabyss. All rights reserved.**  
