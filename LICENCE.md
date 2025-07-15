@@ -29,7 +29,7 @@ The User **shall not**:
 - Modify, reverse engineer, decompile, or create derivative works of the Addon and redistribute them.
 - Extract or reuse any assets (scripts, models, sounds, textures) for other projects or commercial purposes.
 - Claim authorship or ownership of any part of the Addon.
-- Use the Addon in any project or server monetized in violation of Mojang’s [Commercial Usage Guidelines](https://www.minecraft.net/en-us/commercial-usage-guidelines).
+- Use the Addon in any project or server monetized in violation of Mojang’s [Commercial Usage Guidelines](https://www.minecraft.net/en-us/usage-guidelines).
 
 ---
 
